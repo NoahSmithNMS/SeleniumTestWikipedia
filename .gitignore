@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime data
+*.log
+*.pot
+
+# Environment variables
+.env
+
+# Virtualenvs
+venv/
+pyvenv/
+
+# Selenium WebDriver logs
+chromedriver.log
+
+# IDE files (specific to your IDE, add as needed)
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+Lib/*
+Scripts/*
+Include/*
