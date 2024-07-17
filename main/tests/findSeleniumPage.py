@@ -15,4 +15,7 @@ searchbutton.click()
 
 text = driver.find_element(By.CLASS_NAME, "mw-page-title-main").text
 
-print(text)
+if text == "Selenium":
+    print("Test passed")
+
+driver.quit()
