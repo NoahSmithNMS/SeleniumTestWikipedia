@@ -28,3 +28,5 @@ chromedriver.log
 Lib/*
 Scripts/*
 Include/*
+
+pyvenv.cfg
